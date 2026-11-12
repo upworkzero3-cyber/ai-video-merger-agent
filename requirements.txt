@@ -1,0 +1,8 @@
+PySide6-Essentials>=6.8,<7
+opencv-python-headless>=4.10,<5
+ImageHash>=4.3,<5
+numpy>=1.26,<3
+scipy>=1.13,<2
+scenedetect>=0.6.7,<0.7
+librosa>=0.11,<0.12
+pytest>=8,<10
